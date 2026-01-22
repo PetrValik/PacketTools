@@ -1,8 +1,9 @@
 # Packet-tools
 
-It was a school project. I have to create a program to analyze and filter packets with some rules.
+It was a school project. The goal was to create a program for analyzing and filtering packets based on defined rules.
 
-I receive some sort of program skeleton which we can use to debug our program. I work on capture.c, capture.h and nft.c.
+A basic program skeleton was provided and used for debugging and integration. I worked on `capture.c`, `capture.h`, and `nft.c`.
 
-More information on the project and assignment are located in the file assignment.ad.
+No AI tools were used during the development of this project.
 
+More information about the project and assignment can be found in the file `assignment.ad`.
